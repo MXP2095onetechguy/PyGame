@@ -1,5 +1,3 @@
-#!/usr/bin/env python2
-
 import pygame
 import random
 import sys
